@@ -70,6 +70,30 @@ I turn complex ideas into resilient backend architectures.
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adavadkardhruv13&show_icons=true&theme=radical&hide_title=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adavadkardhruv13&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adavadkardhruv13&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  👋 Thanks for visiting my space on GitHub!<br/>
+  If you scrolled this far, we should probably build something awesome together.<br/><br/>
+  <strong>Let’s connect, collaborate, and create.</strong> 🚀
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adavadkardhruv13&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile-views" />
+</p>
+
+
 <!---
 adavadkardhruv13/adavadkardhruv13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
