@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=200&section=header&text=Hey%20there!%20I'm%20Dhruv%20👋&fontSize=35&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00DBDE&vCenter=true&width=435&lines=Hey+there!+I'm+Dhruv+Adavadkar+👋;A+Backend+Developer+who+lives+on+Python+☕;Lover+of+clean+code+and+curious+APIs+🧠" />
 </p>
 
 <h3 align="center">A passionate Python & Backend Developer from India 🇮🇳</h3>
