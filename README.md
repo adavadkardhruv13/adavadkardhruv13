@@ -23,21 +23,16 @@ Backend developer by title, problem-solver by nature — I love turning ideas in
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Dhruv Adavadkar
-title: Backend Developer & AI Explorer
-location: Bhilai, India
-tech_stack:
-  - Python, Django, FastAPI
-  - MongoDB, Redis, PostgreSQL
-  - Git, Docker, REST APIs
-interests:
-  - Building scalable systems
-  - Real-time fraud detection
-  - Prompt engineering and RAG
-currently_working_on:
-  - Safeconnekt (QR-based emergency response)
-learning:
-  - Langchain, LLMs, Transformers
+I'm a backend developer who loves solving real-world problems with smart, scalable systems.  
+Whether it's preventing financial fraud in real-time or building emergency tech that saves lives —  
+I turn complex ideas into resilient backend architectures.
+
+🔧 What I Work On
+- 🧠 Build intelligent systems with memory, logic, and context-awareness  
+- 🧩 Craft scalable APIs using Django, FastAPI, and async workflows  
+- 🧰 Integrate AI models to make backends think — not just respond  
+- ⚙️ Automate everything from background tasks to system alerts  
+- 📊 Data-driven, but product-first — I choose tools that solve problems, not just sound cool
 
 <!---
 adavadkardhruv13/adavadkardhruv13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
