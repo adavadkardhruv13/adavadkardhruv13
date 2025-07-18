@@ -8,17 +8,6 @@
 Backend developer by title, problem-solver by nature — I love turning ideas into systems that scale.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-adavadkar" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adavadkardhruv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-<!--   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white" />
-  </a> -->
-</p>
 
 ## 🧑‍💻 About Me
 
@@ -64,6 +53,22 @@ I turn complex ideas into resilient backend architectures.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
 </p>
 
+
+<p align="center">
+  <strong>Connect with me:</strong>
+</p>
+  
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruv-adavadkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adavadkardhruv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/dhruv_adavadkar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 <!---
 adavadkardhruv13/adavadkardhruv13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
