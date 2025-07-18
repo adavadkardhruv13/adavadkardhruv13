@@ -5,7 +5,7 @@
 <h1 align="center">Hello World, I'm Dhruv Adavadkar 👋</h1>
 
 <p align="center">
-  A backend developer who loves clean APIs, real-world problem solving, and automating just about everything.
+Backend developer by title, problem-solver by nature — I love turning ideas into systems that scale.
 </p>
 
 <p align="center">
@@ -20,24 +20,24 @@
   </a> -->
 </p>
 
-### 👋 A bit about me...
+## 🧑‍💻 About Me
 
-```markdown
-💡 I'm Dhruv — a curious soul who loves building powerful backend systems that *work*.
-
-🔭 Currently working on: 
-- Real-time payment fraud detection (Hot Scan 🚨)
-- Emergency QR recovery tech (Safeconnekt 🧠)
-
-🌱 Learning more about:
-- Langchain, RAG, and Prompt Engineering
-- Making AI models do useful stuff (not just talk smart 😄)
-
-💬 Ask me about: Django, FastAPI, MongoDB, PostgreSQL Redis, Async stuff, Git struggles...
-
-⚡ Fun fact:
-Sometimes I write code just to automate tiny things — like turning off my fan after 17 minutes.
-
+```yaml
+name: Dhruv Adavadkar
+title: Backend Developer & AI Explorer
+location: Bhilai, India
+tech_stack:
+  - Python, Django, FastAPI
+  - MongoDB, Redis, PostgreSQL
+  - Git, Docker, REST APIs
+interests:
+  - Building scalable systems
+  - Real-time fraud detection
+  - Prompt engineering and RAG
+currently_working_on:
+  - Safeconnekt (QR-based emergency response)
+learning:
+  - Langchain, LLMs, Transformers
 
 <!---
 adavadkardhruv13/adavadkardhruv13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
