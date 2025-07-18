@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00DBDE&vCenter=true&width=435&lines=Hey+there!+I'm+Dhruv+Adavadkar+👋;A+Backend+Developer+who+lives+on+Python+☕;Lover+of+clean+code+and+curious+APIs+🧠" />
+  <img src="https://i.imgur.com/Vz9o0ef.png" alt="Banner" width="100%" />
 </p>
 
-<h2 align="center">Welcome to my little corner of GitHub 🌍</h2>
+<h1 align="center">Hello World, I'm Dhruv Adavadkar 👋</h1>
 
 
 <p align="center">
