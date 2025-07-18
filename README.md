@@ -23,6 +23,14 @@ I turn complex ideas into resilient backend architectures.
 - ⚙️ Automate everything from background tasks to system alerts  
 - 📊 Data-driven, but product-first — I choose tools that solve problems, not just sound cool
 
+📚 Currently learning:
+  - 📦 LangChain & RAG pipelines for building context-aware AI applications
+  - 🧠 Prompt Engineering for robust LLM-driven logic
+  - 🧩 Scalable System Design for high-performance backend services
+  - 🧩 System Design for large-scale backend architectures
+
+⚖️ I don’t chase hype — I use the right tool for the job.  
+Let’s build systems that are not only smart but also sustainable.
 ```
 ## 🛠️ Tech Stack
 
