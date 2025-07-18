@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/Vz9o0ef.png" alt="Banner" width="100%" />
+  <img src="https://github.com/adavadkardhruv13/adavadkardhruv13/blob/main/github-header-image.png" alt="Dhruv's Banner" width="100%" />
 </p>
 
 <h1 align="center">Hello World, I'm Dhruv Adavadkar 👋</h1>
