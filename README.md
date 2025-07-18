@@ -54,22 +54,6 @@ I turn complex ideas into resilient backend architectures.
 </p>
 
 
-<p align="center">
-  <strong>Connect with me:</strong>
-</p>
-  
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-adavadkar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adavadkardhruv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/dhruv_adavadkar" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -90,8 +74,17 @@ I turn complex ideas into resilient backend architectures.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adavadkardhruv13&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile-views" />
+  <a href="https://www.linkedin.com/in/dhruv-adavadkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adavadkardhruv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/dhruv_adavadkar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
+
 
 
 <!---
