@@ -57,8 +57,8 @@ I turn complex ideas into resilient backend architectures.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adavadkardhruv13&show_icons=true&theme=radical&hide_title=true" width="38%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adavadkardhruv13&theme=radical" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adavadkardhruv13&show_icons=true&theme=radical&hide_title=true" width="38%" style="height: 180px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adavadkardhruv13&theme=radical" width="38%" style="height: 180px;" />
 </p>
 
 <p align="center">
