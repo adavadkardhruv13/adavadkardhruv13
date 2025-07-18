@@ -4,6 +4,9 @@
 
 <h1 align="center">Hello World, I'm Dhruv Adavadkar 👋</h1>
 
+<p align="center">
+  A backend developer who loves clean APIs, real-world problem solving, and automating just about everything.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruv-adavadkar" target="_blank">
@@ -20,7 +23,7 @@
 ### 👋 A bit about me...
 
 ```markdown
-💡 I'm Dhruv — a curious soul who loves building powerful backend systems that *just work*.
+💡 I'm Dhruv — a curious soul who loves building powerful backend systems that *work*.
 
 🔭 Currently working on: 
 - Real-time payment fraud detection (Hot Scan 🚨)
@@ -30,7 +33,7 @@
 - Langchain, RAG, and Prompt Engineering
 - Making AI models do useful stuff (not just talk smart 😄)
 
-💬 Ask me about: Django, FastAPI, MongoDB, Redis, Async stuff, Git struggles...
+💬 Ask me about: Django, FastAPI, MongoDB, PostgreSQL Redis, Async stuff, Git struggles...
 
 ⚡ Fun fact:
 Sometimes I write code just to automate tiny things — like turning off my fan after 17 minutes.
