@@ -16,7 +16,8 @@ I'm a backend developer who loves solving real-world problems with smart, scalab
 Whether it's preventing financial fraud in real-time or building emergency tech that saves lives —  
 I turn complex ideas into resilient backend architectures.
 
-My sweet spot: Taking that "this seems impossible" problem and breaking it down into something that not only works, but works at scale.
+My sweet spot: Taking that "this seems impossible" problem and breaking it down into something
+that not only works, but works at scale.
 
 🔧 What I Work On
 - 🧠 Build intelligent systems with memory, logic, and context-awareness  
