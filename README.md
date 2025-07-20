@@ -12,12 +12,9 @@ Backend developer by title, problem-solver by nature — I love turning ideas in
 ## 🧑‍💻 About Me
 
 ```yaml
-I'm a backend developer who loves solving real-world problems with smart, scalable systems.  
-Whether it's preventing financial fraud in real-time or building emergency tech that saves lives —  
-I turn complex ideas into resilient backend architectures.
-
-My sweet spot: Taking that "this seems impossible" problem and breaking it down into something
-that not only works, but works at scale.
+Backend developer who gets excited about solving tough problems with elegant code.
+I build scalable systems that handle complexity behind the scenes so everything 
+else can run smoothly.
 
 🔧 What I Work On
 - 🧠 Build intelligent systems with memory, logic, and context-awareness  
