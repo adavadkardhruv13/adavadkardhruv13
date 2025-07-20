@@ -12,9 +12,10 @@ Backend developer by title, problem-solver by nature — I love turning ideas in
 ## 🧑‍💻 About Me
 
 ```yaml
-Backend developer who gets excited about solving tough problems with elegant code.
-I build scalable systems that handle complexity behind the scenes so everything 
-else can run smoothly.
+I'm a backend developer who enjoys solving challenging problems with thoughtful, well-structured code.
+I build systems that handle complexity quietly in the background — so the experience on the surface stays smooth,
+fast, and reliable. Whether it's scaling APIs or managing data,
+I love making things work better behind the scenes.
 
 🔧 What I Work On
 - 🧠 Build intelligent systems with memory, logic, and context-awareness  
